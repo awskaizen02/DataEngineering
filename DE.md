@@ -40,9 +40,9 @@ data technologies such as Hadoop and Spark. it's equipped to deal with large amo
 Microsoft Fabric that serves as a unified workspace for data ingestion, data 
 engineering, data warehousing, real time and advanced analytics. 
 
-# [organize-resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources)
+[organize-resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources)
 
-#[resource-naming](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+[resource-naming](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 
 [resource-abbreviations](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
 
