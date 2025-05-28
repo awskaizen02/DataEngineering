@@ -1,0 +1,10 @@
+emp_id,Name,Salary,department_name,country_id
+100,Steven King,24000,SALES,US
+101,Neena Kochhar,17000,,
+102,Lex De Haan,17000,HR,US
+,Rex,,,
+104,Bruce Ernst,6000,IT,US
+,Al Richardson,7000,PURCHASE,US
+100,steven king,24000,SALES,US
+102,LEX DE HAAN,17000,HR,US
+105,,10000,HR,US

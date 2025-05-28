@@ -1,0 +1,41 @@
+employee_id,first_name,department_name,country_id,salary
+201,Michael,Marketing,CA,13000
+202,Pat,Marketing,CA,6000
+204,Hermann,Public Relations,DE,10000
+203,Susan,Human Resources,UK,6500
+145,John,Sales,UK,14000
+146,Karen,Sales,UK,13500
+176,Jonathon,Sales,UK,8600
+177,Jack,Sales,UK,8400
+178,Kimberely,Sales,UK,7000
+179,Charles,Sales,UK,6200
+205,Shelley,Accounting,US,12000
+206,William,Accounting,US,8300
+200,Jennifer,Administration,US,4400
+100,Steven,Executive,US,24000
+101,Neena,Executive,US,17000
+102,Lex,Executive,US,17000
+108,Nancy,Finance,US,12000
+109,Daniel,Finance,US,9000
+110,John,Finance,US,8200
+111,Ismael,Finance,US,7700
+112,Jose Manuel,Finance,US,7800
+113,Luis,Finance,US,6900
+103,Alexander,IT,US,9000
+104,Bruce,IT,US,6000
+105,David,IT,US,4800
+106,Valli,IT,US,4800
+107,Diana,IT,US,4200
+114,Den,Purchasing,US,11000
+115,Alexander,Purchasing,US,3100
+116,Shelli,Purchasing,US,2900
+117,Sigal,Purchasing,US,2800
+118,Guy,Purchasing,US,2600
+119,Karen,Purchasing,US,2500
+120,Matthew,Shipping,US,8000
+121,Adam,Shipping,US,8200
+122,Payam,Shipping,US,7900
+123,Shanta,Shipping,US,6500
+126,Irene,Shipping,US,2700
+192,Sarah,Shipping,US,4000
+193,Britney,Shipping,US,3900

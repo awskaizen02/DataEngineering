@@ -1,0 +1,41 @@
+emp_id,Name,Salary,department_name,country_id
+100,Steven King,24000,Executive,US
+101,Neena Kochhar,17000,Executive,US
+102,Lex De Haan,17000,Executive,US
+103,Alexander Hunold,9000,IT,US
+104,Bruce Ernst,6000,IT,US
+105,David Austin,4800,IT,US
+106,Valli Pataballa,4800,IT,US
+107,Diana Lorentz,4200,IT,US
+108,Nancy Greenberg,12000,Finance,US
+109,Daniel Faviet,9000,Finance,US
+110,John Chen,8200,Finance,US
+111,Ismael Sciarra,7700,Finance,US
+112,Jose Manuel Urman,7800,Finance,US
+113,Luis Popp,6900,Finance,US
+114,Den Raphaely,11000,Purchasing,US
+115,Alexander Khoo,3100,Purchasing,US
+116,Shelli Baida,2900,Purchasing,US
+117,Sigal Tobias,2800,Purchasing,US
+118,Guy Himuro,2600,Purchasing,US
+119,Karen Colmenares,2500,Purchasing,US
+120,Matthew Weiss,8000,Shipping,US
+121,Adam Fripp,8200,Shipping,US
+122,Payam Kaufling,7900,Shipping,US
+123,Shanta Vollman,6500,Shipping,US
+126,Irene Mikkilineni,2700,Shipping,US
+145,John Russell,14000,Sales,UK
+146,Karen Partners,13500,Sales,UK
+176,Jonathon Taylor,8600,Sales,UK
+177,Jack Livingston,8400,Sales,UK
+178,Kimberely Grant,7000,Sales,UK
+179,Charles Johnson,6200,Sales,UK
+192,Sarah Bell,4000,Shipping,US
+193,Britney Everett,3900,Shipping,US
+200,Jennifer Whalen,4400,Administration,US
+201,Michael Hartstein,13000,Marketing,CA
+202,Pat Fay,6000,Marketing,CA
+203,Susan Mavris,6500,Human Resources,UK
+204,Hermann Baer,10000,Public Relations,DE
+205,Shelley Higgins,12000,Accounting,US
+206,William Gietz,8300,Accounting,US
