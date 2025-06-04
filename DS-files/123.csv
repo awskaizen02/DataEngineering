@@ -1,0 +1,7 @@
+id,department,srilanka,india,uk,usa,indonesia,company,range
+101,Admin,2,1,,,2,hippo,1
+102,chef,10,20,2,5,hippo,2
+103,eng,20,10,,,5,hippo,3
+101,Admin,2,1,,,2,kaizen,1
+102,chef,10,20,2,5,kaizen,2
+103,eng,20,10,,,5,kaizen,3
